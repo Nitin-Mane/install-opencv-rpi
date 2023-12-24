@@ -45,3 +45,12 @@ Install the process
 ```
 ./OpenCV-4-5-5.sh
 ```
+
+
+### Alternative 
+
+use the following command 
+
+```
+sudo apt-get install python3-opencv
+```
